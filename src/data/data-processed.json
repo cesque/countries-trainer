@@ -1,0 +1,2002 @@
+[
+    {
+        "name": "Andorra",
+        "code": "AD",
+        "phone": "376",
+        "capital": "Andorra la Vella",
+        "flag": "🇦🇩",
+        "continent": "Europe"
+    },
+    {
+        "name": "Bolivia",
+        "code": "BO",
+        "phone": "591",
+        "capital": "Sucre",
+        "flag": "🇧🇴",
+        "continent": "South America"
+    },
+    {
+        "name": "Bahrain",
+        "code": "BH",
+        "phone": "973",
+        "capital": "Manama",
+        "flag": "🇧🇭",
+        "continent": "Asia"
+    },
+    {
+        "name": "Armenia",
+        "code": "AM",
+        "phone": "374",
+        "capital": "Yerevan",
+        "flag": "🇦🇲",
+        "continent": "Asia"
+    },
+    {
+        "name": "American Samoa",
+        "code": "AS",
+        "phone": "1684",
+        "capital": "Pago Pago",
+        "flag": "🇦🇸",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Aruba",
+        "code": "AW",
+        "phone": "297",
+        "capital": "Oranjestad",
+        "flag": "🇦🇼",
+        "continent": "North America"
+    },
+    {
+        "name": "Belize",
+        "code": "BZ",
+        "phone": "501",
+        "capital": "Belmopan",
+        "flag": "🇧🇿",
+        "continent": "North America"
+    },
+    {
+        "name": "Anguilla",
+        "code": "AI",
+        "phone": "1264",
+        "capital": "The Valley",
+        "flag": "🇦🇮",
+        "continent": "North America"
+    },
+    {
+        "name": "Barbados",
+        "code": "BB",
+        "phone": "1246",
+        "capital": "Bridgetown",
+        "flag": "🇧🇧",
+        "continent": "North America"
+    },
+    {
+        "name": "Grenada",
+        "code": "GD",
+        "phone": "1473",
+        "capital": "St. George's",
+        "flag": "🇬🇩",
+        "continent": "North America"
+    },
+    {
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "phone": "971",
+        "capital": "Abu Dhabi",
+        "flag": "🇦🇪",
+        "continent": "Asia"
+    },
+    {
+        "name": "Switzerland",
+        "code": "CH",
+        "phone": "41",
+        "capital": "Bern",
+        "flag": "🇨🇭",
+        "continent": "Europe"
+    },
+    {
+        "name": "Burundi",
+        "code": "BI",
+        "phone": "257",
+        "capital": "Bujumbura",
+        "flag": "🇧🇮",
+        "continent": "Africa"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD",
+        "phone": "243",
+        "capital": "Kinshasa",
+        "flag": "🇨🇩",
+        "continent": "Africa"
+    },
+    {
+        "name": "Benin",
+        "code": "BJ",
+        "phone": "229",
+        "capital": "Porto-Novo",
+        "flag": "🇧🇯",
+        "continent": "Africa"
+    },
+    {
+        "name": "Greenland",
+        "code": "GL",
+        "phone": "299",
+        "capital": "Nuuk",
+        "flag": "🇬🇱",
+        "continent": "North America"
+    },
+    {
+        "name": "Angola",
+        "code": "AO",
+        "phone": "244",
+        "capital": "Luanda",
+        "flag": "🇦🇴",
+        "continent": "Africa"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "phone": "387",
+        "capital": "Sarajevo",
+        "flag": "🇧🇦",
+        "continent": "Europe"
+    },
+    {
+        "name": "Brunei",
+        "code": "BN",
+        "phone": "673",
+        "capital": "Bandar Seri Begawan",
+        "flag": "🇧🇳",
+        "continent": "Asia"
+    },
+    {
+        "name": "Gambia",
+        "code": "GM",
+        "phone": "220",
+        "capital": "Banjul",
+        "flag": "🇬🇲",
+        "continent": "Africa"
+    },
+    {
+        "name": "Belgium",
+        "code": "BE",
+        "phone": "32",
+        "capital": "Brussels",
+        "flag": "🇧🇪",
+        "continent": "Europe"
+    },
+    {
+        "name": "Bhutan",
+        "code": "BT",
+        "phone": "975",
+        "capital": "Thimphu",
+        "flag": "🇧🇹",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bulgaria",
+        "code": "BG",
+        "phone": "359",
+        "capital": "Sofia",
+        "flag": "🇧🇬",
+        "continent": "Europe"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "code": "BL",
+        "phone": "590",
+        "capital": "Gustavia",
+        "flag": "🇧🇱",
+        "continent": "North America"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "phone": "1268",
+        "capital": "Saint John's",
+        "flag": "🇦🇬",
+        "continent": "North America"
+    },
+    {
+        "name": "Honduras",
+        "code": "HN",
+        "phone": "504",
+        "capital": "Tegucigalpa",
+        "flag": "🇭🇳",
+        "continent": "North America"
+    },
+    {
+        "name": "Åland",
+        "code": "AX",
+        "phone": "358",
+        "capital": "Mariehamn",
+        "flag": "🇦🇽",
+        "continent": "Europe"
+    },
+    {
+        "name": "Republic of the Congo",
+        "code": "CG",
+        "phone": "242",
+        "capital": "Brazzaville",
+        "flag": "🇨🇬",
+        "continent": "Africa"
+    },
+    {
+        "name": "Bouvet Island",
+        "code": "BV",
+        "phone": "47",
+        "capital": "",
+        "flag": "🇧🇻",
+        "continent": "Antarctica"
+    },
+    {
+        "name": "Canada",
+        "code": "CA",
+        "phone": "1",
+        "capital": "Ottawa",
+        "flag": "🇨🇦",
+        "continent": "North America"
+    },
+    {
+        "name": "Colombia",
+        "code": "CO",
+        "phone": "57",
+        "capital": "Bogotá",
+        "flag": "🇨🇴",
+        "continent": "South America"
+    },
+    {
+        "name": "Afghanistan",
+        "code": "AF",
+        "phone": "93",
+        "capital": "Kabul",
+        "flag": "🇦🇫",
+        "continent": "Asia"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS",
+        "phone": "500",
+        "capital": "King Edward Point",
+        "flag": "🇬🇸",
+        "continent": "Antarctica"
+    },
+    {
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "phone": "994",
+        "capital": "Baku",
+        "flag": "🇦🇿",
+        "continent": "Asia"
+    },
+    {
+        "name": "Hong Kong",
+        "code": "HK",
+        "phone": "852",
+        "capital": "City of Victoria",
+        "flag": "🇭🇰",
+        "continent": "Asia"
+    },
+    {
+        "name": "Chile",
+        "code": "CL",
+        "phone": "56",
+        "capital": "Santiago",
+        "flag": "🇨🇱",
+        "continent": "South America"
+    },
+    {
+        "name": "China",
+        "code": "CN",
+        "phone": "86",
+        "capital": "Beijing",
+        "flag": "🇨🇳",
+        "continent": "Asia"
+    },
+    {
+        "name": "Belarus",
+        "code": "BY",
+        "phone": "375",
+        "capital": "Minsk",
+        "flag": "🇧🇾",
+        "continent": "Europe"
+    },
+    {
+        "name": "French Guiana",
+        "code": "GF",
+        "phone": "594",
+        "capital": "Cayenne",
+        "flag": "🇬🇫",
+        "continent": "South America"
+    },
+    {
+        "name": "Cape Verde",
+        "code": "CV",
+        "phone": "238",
+        "capital": "Praia",
+        "flag": "🇨🇻",
+        "continent": "Africa"
+    },
+    {
+        "name": "Austria",
+        "code": "AT",
+        "phone": "43",
+        "capital": "Vienna",
+        "flag": "🇦🇹",
+        "continent": "Europe"
+    },
+    {
+        "name": "Bahamas",
+        "code": "BS",
+        "phone": "1242",
+        "capital": "Nassau",
+        "flag": "🇧🇸",
+        "continent": "North America"
+    },
+    {
+        "name": "Botswana",
+        "code": "BW",
+        "phone": "267",
+        "capital": "Gaborone",
+        "flag": "🇧🇼",
+        "continent": "Africa"
+    },
+    {
+        "name": "Argentina",
+        "code": "AR",
+        "phone": "54",
+        "capital": "Buenos Aires",
+        "flag": "🇦🇷",
+        "continent": "South America"
+    },
+    {
+        "name": "Central African Republic",
+        "code": "CF",
+        "phone": "236",
+        "capital": "Bangui",
+        "flag": "🇨🇫",
+        "continent": "Africa"
+    },
+    {
+        "name": "Dominica",
+        "code": "DM",
+        "phone": "1767",
+        "capital": "Roseau",
+        "flag": "🇩🇲",
+        "continent": "North America"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "code": "HM",
+        "phone": "61",
+        "capital": "",
+        "flag": "🇭🇲",
+        "continent": "Antarctica"
+    },
+    {
+        "name": "Iran",
+        "code": "IR",
+        "phone": "98",
+        "capital": "Tehran",
+        "flag": "🇮🇷",
+        "continent": "Asia"
+    },
+    {
+        "name": "Italy",
+        "code": "IT",
+        "phone": "39",
+        "capital": "Rome",
+        "flag": "🇮🇹",
+        "continent": "Europe"
+    },
+    {
+        "name": "Faroe Islands",
+        "code": "FO",
+        "phone": "298",
+        "capital": "Tórshavn",
+        "flag": "🇫🇴",
+        "continent": "Europe"
+    },
+    {
+        "name": "Brazil",
+        "code": "BR",
+        "phone": "55",
+        "capital": "Brasília",
+        "flag": "🇧🇷",
+        "continent": "South America"
+    },
+    {
+        "name": "India",
+        "code": "IN",
+        "phone": "91",
+        "capital": "New Delhi",
+        "flag": "🇮🇳",
+        "continent": "Asia"
+    },
+    {
+        "name": "Cameroon",
+        "code": "CM",
+        "phone": "237",
+        "capital": "Yaoundé",
+        "flag": "🇨🇲",
+        "continent": "Africa"
+    },
+    {
+        "name": "Iceland",
+        "code": "IS",
+        "phone": "354",
+        "capital": "Reykjavik",
+        "flag": "🇮🇸",
+        "continent": "Europe"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "GB",
+        "phone": "44",
+        "capital": "London",
+        "flag": "🇬🇧",
+        "continent": "Europe"
+    },
+    {
+        "name": "Costa Rica",
+        "code": "CR",
+        "phone": "506",
+        "capital": "San José",
+        "flag": "🇨🇷",
+        "continent": "North America"
+    },
+    {
+        "name": "Guyana",
+        "code": "GY",
+        "phone": "592",
+        "capital": "Georgetown",
+        "flag": "🇬🇾",
+        "continent": "South America"
+    },
+    {
+        "name": "France",
+        "code": "FR",
+        "phone": "33",
+        "capital": "Paris",
+        "flag": "🇫🇷",
+        "continent": "Europe"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE",
+        "phone": "44",
+        "capital": "Saint Helier",
+        "flag": "🇯🇪",
+        "continent": "Europe"
+    },
+    {
+        "name": "Christmas Island",
+        "code": "CX",
+        "phone": "61",
+        "capital": "Flying Fish Cove",
+        "flag": "🇨🇽",
+        "continent": "Asia"
+    },
+    {
+        "name": "Ivory Coast",
+        "code": "CI",
+        "phone": "225",
+        "capital": "Yamoussoukro",
+        "flag": "🇨🇮",
+        "continent": "Africa"
+    },
+    {
+        "name": "Germany",
+        "code": "DE",
+        "phone": "49",
+        "capital": "Berlin",
+        "flag": "🇩🇪",
+        "continent": "Europe"
+    },
+    {
+        "name": "Jamaica",
+        "code": "JM",
+        "phone": "1876",
+        "capital": "Kingston",
+        "flag": "🇯🇲",
+        "continent": "North America"
+    },
+    {
+        "name": "Cocos [Keeling] Islands",
+        "code": "CC",
+        "phone": "61",
+        "capital": "West Island",
+        "flag": "🇨🇨",
+        "continent": "Asia"
+    },
+    {
+        "name": "Czech Republic",
+        "code": "CZ",
+        "phone": "420",
+        "capital": "Prague",
+        "flag": "🇨🇿",
+        "continent": "Europe"
+    },
+    {
+        "name": "Cook Islands",
+        "code": "CK",
+        "phone": "682",
+        "capital": "Avarua",
+        "flag": "🇨🇰",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Australia",
+        "code": "AU",
+        "phone": "61",
+        "capital": "Canberra",
+        "flag": "🇦🇺",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Albania",
+        "code": "AL",
+        "phone": "355",
+        "capital": "Tirana",
+        "flag": "🇦🇱",
+        "continent": "Europe"
+    },
+    {
+        "name": "Egypt",
+        "code": "EG",
+        "phone": "20",
+        "capital": "Cairo",
+        "flag": "🇪🇬",
+        "continent": "Africa"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "phone": "245",
+        "capital": "Bissau",
+        "flag": "🇬🇼",
+        "continent": "Africa"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "BD",
+        "phone": "880",
+        "capital": "Dhaka",
+        "flag": "🇧🇩",
+        "continent": "Asia"
+    },
+    {
+        "name": "Guatemala",
+        "code": "GT",
+        "phone": "502",
+        "capital": "Guatemala City",
+        "flag": "🇬🇹",
+        "continent": "North America"
+    },
+    {
+        "name": "Antarctica",
+        "code": "AQ",
+        "phone": "672",
+        "capital": "",
+        "flag": "🇦🇶",
+        "continent": "Antarctica"
+    },
+    {
+        "name": "Curacao",
+        "code": "CW",
+        "phone": "5999",
+        "capital": "Willemstad",
+        "flag": "🇨🇼",
+        "continent": "North America"
+    },
+    {
+        "name": "Cyprus",
+        "code": "CY",
+        "phone": "357",
+        "capital": "Nicosia",
+        "flag": "🇨🇾",
+        "continent": "Europe"
+    },
+    {
+        "name": "Denmark",
+        "code": "DK",
+        "phone": "45",
+        "capital": "Copenhagen",
+        "flag": "🇩🇰",
+        "continent": "Europe"
+    },
+    {
+        "name": "Cuba",
+        "code": "CU",
+        "phone": "53",
+        "capital": "Havana",
+        "flag": "🇨🇺",
+        "continent": "North America"
+    },
+    {
+        "name": "Algeria",
+        "code": "DZ",
+        "phone": "213",
+        "capital": "Algiers",
+        "flag": "🇩🇿",
+        "continent": "Africa"
+    },
+    {
+        "name": "Western Sahara",
+        "code": "EH",
+        "phone": "212",
+        "capital": "El Aaiún",
+        "flag": "🇪🇭",
+        "continent": "Africa"
+    },
+    {
+        "name": "Guinea",
+        "code": "GN",
+        "phone": "224",
+        "capital": "Conakry",
+        "flag": "🇬🇳",
+        "continent": "Africa"
+    },
+    {
+        "name": "Falkland Islands",
+        "code": "FK",
+        "phone": "500",
+        "capital": "Stanley",
+        "flag": "🇫🇰",
+        "continent": "South America"
+    },
+    {
+        "name": "Guam",
+        "code": "GU",
+        "phone": "1671",
+        "capital": "Hagåtña",
+        "flag": "🇬🇺",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Bonaire",
+        "code": "BQ",
+        "phone": "5997",
+        "capital": "Kralendijk",
+        "flag": "🇧🇶",
+        "continent": "North America"
+    },
+    {
+        "name": "Djibouti",
+        "code": "DJ",
+        "phone": "253",
+        "capital": "Djibouti",
+        "flag": "🇩🇯",
+        "continent": "Africa"
+    },
+    {
+        "name": "Burkina Faso",
+        "code": "BF",
+        "phone": "226",
+        "capital": "Ouagadougou",
+        "flag": "🇧🇫",
+        "continent": "Africa"
+    },
+    {
+        "name": "Eritrea",
+        "code": "ER",
+        "phone": "291",
+        "capital": "Asmara",
+        "flag": "🇪🇷",
+        "continent": "Africa"
+    },
+    {
+        "name": "Haiti",
+        "code": "HT",
+        "phone": "509",
+        "capital": "Port-au-Prince",
+        "flag": "🇭🇹",
+        "continent": "North America"
+    },
+    {
+        "name": "Gibraltar",
+        "code": "GI",
+        "phone": "350",
+        "capital": "Gibraltar",
+        "flag": "🇬🇮",
+        "continent": "Europe"
+    },
+    {
+        "name": "Jordan",
+        "code": "JO",
+        "phone": "962",
+        "capital": "Amman",
+        "flag": "🇯🇴",
+        "continent": "Asia"
+    },
+    {
+        "name": "Estonia",
+        "code": "EE",
+        "phone": "372",
+        "capital": "Tallinn",
+        "flag": "🇪🇪",
+        "continent": "Europe"
+    },
+    {
+        "name": "Hungary",
+        "code": "HU",
+        "phone": "36",
+        "capital": "Budapest",
+        "flag": "🇭🇺",
+        "continent": "Europe"
+    },
+    {
+        "name": "Ethiopia",
+        "code": "ET",
+        "phone": "251",
+        "capital": "Addis Ababa",
+        "flag": "🇪🇹",
+        "continent": "Africa"
+    },
+    {
+        "name": "Dominican Republic",
+        "code": "DO",
+        "phone": "1809,1829,1849",
+        "capital": "Santo Domingo",
+        "flag": "🇩🇴",
+        "continent": "North America"
+    },
+    {
+        "name": "Bermuda",
+        "code": "BM",
+        "phone": "1441",
+        "capital": "Hamilton",
+        "flag": "🇧🇲",
+        "continent": "North America"
+    },
+    {
+        "name": "Micronesia",
+        "code": "FM",
+        "phone": "691",
+        "capital": "Palikir",
+        "flag": "🇫🇲",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Greece",
+        "code": "GR",
+        "phone": "30",
+        "capital": "Athens",
+        "flag": "🇬🇷",
+        "continent": "Europe"
+    },
+    {
+        "name": "Spain",
+        "code": "ES",
+        "phone": "34",
+        "capital": "Madrid",
+        "flag": "🇪🇸",
+        "continent": "Europe"
+    },
+    {
+        "name": "Guadeloupe",
+        "code": "GP",
+        "phone": "590",
+        "capital": "Basse-Terre",
+        "flag": "🇬🇵",
+        "continent": "North America"
+    },
+    {
+        "name": "Ecuador",
+        "code": "EC",
+        "phone": "593",
+        "capital": "Quito",
+        "flag": "🇪🇨",
+        "continent": "South America"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG",
+        "phone": "44",
+        "capital": "St. Peter Port",
+        "flag": "🇬🇬",
+        "continent": "Europe"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID",
+        "phone": "62",
+        "capital": "Jakarta",
+        "flag": "🇮🇩",
+        "continent": "Asia"
+    },
+    {
+        "name": "Georgia",
+        "code": "GE",
+        "phone": "995",
+        "capital": "Tbilisi",
+        "flag": "🇬🇪",
+        "continent": "Asia"
+    },
+    {
+        "name": "Ireland",
+        "code": "IE",
+        "phone": "353",
+        "capital": "Dublin",
+        "flag": "🇮🇪",
+        "continent": "Europe"
+    },
+    {
+        "name": "Ghana",
+        "code": "GH",
+        "phone": "233",
+        "capital": "Accra",
+        "flag": "🇬🇭",
+        "continent": "Africa"
+    },
+    {
+        "name": "Israel",
+        "code": "IL",
+        "phone": "972",
+        "capital": "Jerusalem",
+        "flag": "🇮🇱",
+        "continent": "Asia"
+    },
+    {
+        "name": "Finland",
+        "code": "FI",
+        "phone": "358",
+        "capital": "Helsinki",
+        "flag": "🇫🇮",
+        "continent": "Europe"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "phone": "240",
+        "capital": "Malabo",
+        "flag": "🇬🇶",
+        "continent": "Africa"
+    },
+    {
+        "name": "Croatia",
+        "code": "HR",
+        "phone": "385",
+        "capital": "Zagreb",
+        "flag": "🇭🇷",
+        "continent": "Europe"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "code": "IO",
+        "phone": "246",
+        "capital": "Diego Garcia",
+        "flag": "🇮🇴",
+        "continent": "Asia"
+    },
+    {
+        "name": "Fiji",
+        "code": "FJ",
+        "phone": "679",
+        "capital": "Suva",
+        "flag": "🇫🇯",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Iraq",
+        "code": "IQ",
+        "phone": "964",
+        "capital": "Baghdad",
+        "flag": "🇮🇶",
+        "continent": "Asia"
+    },
+    {
+        "name": "Isle of Man",
+        "code": "IM",
+        "phone": "44",
+        "capital": "Douglas",
+        "flag": "🇮🇲",
+        "continent": "Europe"
+    },
+    {
+        "name": "Gabon",
+        "code": "GA",
+        "phone": "241",
+        "capital": "Libreville",
+        "flag": "🇬🇦",
+        "continent": "Africa"
+    },
+    {
+        "name": "Monaco",
+        "code": "MC",
+        "phone": "377",
+        "capital": "Monaco",
+        "flag": "🇲🇨",
+        "continent": "Europe"
+    },
+    {
+        "name": "Liechtenstein",
+        "code": "LI",
+        "phone": "423",
+        "capital": "Vaduz",
+        "flag": "🇱🇮",
+        "continent": "Europe"
+    },
+    {
+        "name": "North Korea",
+        "code": "KP",
+        "phone": "850",
+        "capital": "Pyongyang",
+        "flag": "🇰🇵",
+        "continent": "Asia"
+    },
+    {
+        "name": "Cayman Islands",
+        "code": "KY",
+        "phone": "1345",
+        "capital": "George Town",
+        "flag": "🇰🇾",
+        "continent": "North America"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "phone": "1869",
+        "capital": "Basseterre",
+        "flag": "🇰🇳",
+        "continent": "North America"
+    },
+    {
+        "name": "Cambodia",
+        "code": "KH",
+        "phone": "855",
+        "capital": "Phnom Penh",
+        "flag": "🇰🇭",
+        "continent": "Asia"
+    },
+    {
+        "name": "Liberia",
+        "code": "LR",
+        "phone": "231",
+        "capital": "Monrovia",
+        "flag": "🇱🇷",
+        "continent": "Africa"
+    },
+    {
+        "name": "Kenya",
+        "code": "KE",
+        "phone": "254",
+        "capital": "Nairobi",
+        "flag": "🇰🇪",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sri Lanka",
+        "code": "LK",
+        "phone": "94",
+        "capital": "Colombo",
+        "flag": "🇱🇰",
+        "continent": "Asia"
+    },
+    {
+        "name": "Japan",
+        "code": "JP",
+        "phone": "81",
+        "capital": "Tokyo",
+        "flag": "🇯🇵",
+        "continent": "Asia"
+    },
+    {
+        "name": "South Korea",
+        "code": "KR",
+        "phone": "82",
+        "capital": "Seoul",
+        "flag": "🇰🇷",
+        "continent": "Asia"
+    },
+    {
+        "name": "Madagascar",
+        "code": "MG",
+        "phone": "261",
+        "capital": "Antananarivo",
+        "flag": "🇲🇬",
+        "continent": "Africa"
+    },
+    {
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "phone": "76,77",
+        "capital": "Astana",
+        "flag": "🇰🇿",
+        "continent": "Asia"
+    },
+    {
+        "name": "Montenegro",
+        "code": "ME",
+        "phone": "382",
+        "capital": "Podgorica",
+        "flag": "🇲🇪",
+        "continent": "Europe"
+    },
+    {
+        "name": "Moldova",
+        "code": "MD",
+        "phone": "373",
+        "capital": "Chișinău",
+        "flag": "🇲🇩",
+        "continent": "Europe"
+    },
+    {
+        "name": "Luxembourg",
+        "code": "LU",
+        "phone": "352",
+        "capital": "Luxembourg",
+        "flag": "🇱🇺",
+        "continent": "Europe"
+    },
+    {
+        "name": "Lithuania",
+        "code": "LT",
+        "phone": "370",
+        "capital": "Vilnius",
+        "flag": "🇱🇹",
+        "continent": "Europe"
+    },
+    {
+        "name": "Laos",
+        "code": "LA",
+        "phone": "856",
+        "capital": "Vientiane",
+        "flag": "🇱🇦",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "phone": "996",
+        "capital": "Bishkek",
+        "flag": "🇰🇬",
+        "continent": "Asia"
+    },
+    {
+        "name": "Saint Martin",
+        "code": "MF",
+        "phone": "590",
+        "capital": "Marigot",
+        "flag": "🇲🇫",
+        "continent": "North America"
+    },
+    {
+        "name": "Kuwait",
+        "code": "KW",
+        "phone": "965",
+        "capital": "Kuwait City",
+        "flag": "🇰🇼",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kiribati",
+        "code": "KI",
+        "phone": "686",
+        "capital": "South Tarawa",
+        "flag": "🇰🇮",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Saint Lucia",
+        "code": "LC",
+        "phone": "1758",
+        "capital": "Castries",
+        "flag": "🇱🇨",
+        "continent": "North America"
+    },
+    {
+        "name": "Lesotho",
+        "code": "LS",
+        "phone": "266",
+        "capital": "Maseru",
+        "flag": "🇱🇸",
+        "continent": "Africa"
+    },
+    {
+        "name": "Comoros",
+        "code": "KM",
+        "phone": "269",
+        "capital": "Moroni",
+        "flag": "🇰🇲",
+        "continent": "Africa"
+    },
+    {
+        "name": "Latvia",
+        "code": "LV",
+        "phone": "371",
+        "capital": "Riga",
+        "flag": "🇱🇻",
+        "continent": "Europe"
+    },
+    {
+        "name": "Lebanon",
+        "code": "LB",
+        "phone": "961",
+        "capital": "Beirut",
+        "flag": "🇱🇧",
+        "continent": "Asia"
+    },
+    {
+        "name": "Libya",
+        "code": "LY",
+        "phone": "218",
+        "capital": "Tripoli",
+        "flag": "🇱🇾",
+        "continent": "Africa"
+    },
+    {
+        "name": "Morocco",
+        "code": "MA",
+        "phone": "212",
+        "capital": "Rabat",
+        "flag": "🇲🇦",
+        "continent": "Africa"
+    },
+    {
+        "name": "Malta",
+        "code": "MT",
+        "phone": "356",
+        "capital": "Valletta",
+        "flag": "🇲🇹",
+        "continent": "Europe"
+    },
+    {
+        "name": "Maldives",
+        "code": "MV",
+        "phone": "960",
+        "capital": "Malé",
+        "flag": "🇲🇻",
+        "continent": "Asia"
+    },
+    {
+        "name": "Norfolk Island",
+        "code": "NF",
+        "phone": "672",
+        "capital": "Kingston",
+        "flag": "🇳🇫",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Nepal",
+        "code": "NP",
+        "phone": "977",
+        "capital": "Kathmandu",
+        "flag": "🇳🇵",
+        "continent": "Asia"
+    },
+    {
+        "name": "Mozambique",
+        "code": "MZ",
+        "phone": "258",
+        "capital": "Maputo",
+        "flag": "🇲🇿",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mali",
+        "code": "ML",
+        "phone": "223",
+        "capital": "Bamako",
+        "flag": "🇲🇱",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mongolia",
+        "code": "MN",
+        "phone": "976",
+        "capital": "Ulan Bator",
+        "flag": "🇲🇳",
+        "continent": "Asia"
+    },
+    {
+        "name": "Mexico",
+        "code": "MX",
+        "phone": "52",
+        "capital": "Mexico City",
+        "flag": "🇲🇽",
+        "continent": "North America"
+    },
+    {
+        "name": "Macao",
+        "code": "MO",
+        "phone": "853",
+        "capital": "",
+        "flag": "🇲🇴",
+        "continent": "Asia"
+    },
+    {
+        "name": "North Macedonia",
+        "code": "MK",
+        "phone": "389",
+        "capital": "Skopje",
+        "flag": "🇲🇰",
+        "continent": "Europe"
+    },
+    {
+        "name": "New Caledonia",
+        "code": "NC",
+        "phone": "687",
+        "capital": "Nouméa",
+        "flag": "🇳🇨",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Netherlands",
+        "code": "NL",
+        "phone": "31",
+        "capital": "Amsterdam",
+        "flag": "🇳🇱",
+        "continent": "Europe"
+    },
+    {
+        "name": "French Polynesia",
+        "code": "PF",
+        "phone": "689",
+        "capital": "Papeetē",
+        "flag": "🇵🇫",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Portugal",
+        "code": "PT",
+        "phone": "351",
+        "capital": "Lisbon",
+        "flag": "🇵🇹",
+        "continent": "Europe"
+    },
+    {
+        "name": "Somalia",
+        "code": "SO",
+        "phone": "252",
+        "capital": "Mogadishu",
+        "flag": "🇸🇴",
+        "continent": "Africa"
+    },
+    {
+        "name": "Namibia",
+        "code": "NA",
+        "phone": "264",
+        "capital": "Windhoek",
+        "flag": "🇳🇦",
+        "continent": "Africa"
+    },
+    {
+        "name": "New Zealand",
+        "code": "NZ",
+        "phone": "64",
+        "capital": "Wellington",
+        "flag": "🇳🇿",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Marshall Islands",
+        "code": "MH",
+        "phone": "692",
+        "capital": "Majuro",
+        "flag": "🇲🇭",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "code": "MP",
+        "phone": "1670",
+        "capital": "Saipan",
+        "flag": "🇲🇵",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Nigeria",
+        "code": "NG",
+        "phone": "234",
+        "capital": "Abuja",
+        "flag": "🇳🇬",
+        "continent": "Africa"
+    },
+    {
+        "name": "Puerto Rico",
+        "code": "PR",
+        "phone": "1787,1939",
+        "capital": "San Juan",
+        "flag": "🇵🇷",
+        "continent": "North America"
+    },
+    {
+        "name": "Malawi",
+        "code": "MW",
+        "phone": "265",
+        "capital": "Lilongwe",
+        "flag": "🇲🇼",
+        "continent": "Africa"
+    },
+    {
+        "name": "Palestine",
+        "code": "PS",
+        "phone": "970",
+        "capital": "Ramallah",
+        "flag": "🇵🇸",
+        "continent": "Asia"
+    },
+    {
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "phone": "966",
+        "capital": "Riyadh",
+        "flag": "🇸🇦",
+        "continent": "Asia"
+    },
+    {
+        "name": "Nauru",
+        "code": "NR",
+        "phone": "674",
+        "capital": "Yaren",
+        "flag": "🇳🇷",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Martinique",
+        "code": "MQ",
+        "phone": "596",
+        "capital": "Fort-de-France",
+        "flag": "🇲🇶",
+        "continent": "North America"
+    },
+    {
+        "name": "Poland",
+        "code": "PL",
+        "phone": "48",
+        "capital": "Warsaw",
+        "flag": "🇵🇱",
+        "continent": "Europe"
+    },
+    {
+        "name": "Seychelles",
+        "code": "SC",
+        "phone": "248",
+        "capital": "Victoria",
+        "flag": "🇸🇨",
+        "continent": "Africa"
+    },
+    {
+        "name": "South Africa",
+        "code": "ZA",
+        "phone": "27",
+        "capital": "Pretoria",
+        "flag": "🇿🇦",
+        "continent": "Africa"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "phone": "508",
+        "capital": "Saint-Pierre",
+        "flag": "🇵🇲",
+        "continent": "North America"
+    },
+    {
+        "name": "Oman",
+        "code": "OM",
+        "phone": "968",
+        "capital": "Muscat",
+        "flag": "🇴🇲",
+        "continent": "Asia"
+    },
+    {
+        "name": "Panama",
+        "code": "PA",
+        "phone": "507",
+        "capital": "Panama City",
+        "flag": "🇵🇦",
+        "continent": "North America"
+    },
+    {
+        "name": "Solomon Islands",
+        "code": "SB",
+        "phone": "677",
+        "capital": "Honiara",
+        "flag": "🇸🇧",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Mauritius",
+        "code": "MU",
+        "phone": "230",
+        "capital": "Port Louis",
+        "flag": "🇲🇺",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mauritania",
+        "code": "MR",
+        "phone": "222",
+        "capital": "Nouakchott",
+        "flag": "🇲🇷",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sweden",
+        "code": "SE",
+        "phone": "46",
+        "capital": "Stockholm",
+        "flag": "🇸🇪",
+        "continent": "Europe"
+    },
+    {
+        "name": "Sudan",
+        "code": "SD",
+        "phone": "249",
+        "capital": "Khartoum",
+        "flag": "🇸🇩",
+        "continent": "Africa"
+    },
+    {
+        "name": "Niger",
+        "code": "NE",
+        "phone": "227",
+        "capital": "Niamey",
+        "flag": "🇳🇪",
+        "continent": "Africa"
+    },
+    {
+        "name": "French Southern Territories",
+        "code": "TF",
+        "phone": "262",
+        "capital": "Port-aux-Français",
+        "flag": "🇹🇫",
+        "continent": "Antarctica"
+    },
+    {
+        "name": "Palau",
+        "code": "PW",
+        "phone": "680",
+        "capital": "Ngerulmud",
+        "flag": "🇵🇼",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Qatar",
+        "code": "QA",
+        "phone": "974",
+        "capital": "Doha",
+        "flag": "🇶🇦",
+        "continent": "Asia"
+    },
+    {
+        "name": "Slovenia",
+        "code": "SI",
+        "phone": "386",
+        "capital": "Ljubljana",
+        "flag": "🇸🇮",
+        "continent": "Europe"
+    },
+    {
+        "name": "Norway",
+        "code": "NO",
+        "phone": "47",
+        "capital": "Oslo",
+        "flag": "🇳🇴",
+        "continent": "Europe"
+    },
+    {
+        "name": "Romania",
+        "code": "RO",
+        "phone": "40",
+        "capital": "Bucharest",
+        "flag": "🇷🇴",
+        "continent": "Europe"
+    },
+    {
+        "name": "Montserrat",
+        "code": "MS",
+        "phone": "1664",
+        "capital": "Plymouth",
+        "flag": "🇲🇸",
+        "continent": "North America"
+    },
+    {
+        "name": "Myanmar [Burma]",
+        "code": "MM",
+        "phone": "95",
+        "capital": "Naypyidaw",
+        "flag": "🇲🇲",
+        "continent": "Asia"
+    },
+    {
+        "name": "Sint Maarten",
+        "code": "SX",
+        "phone": "1721",
+        "capital": "Philipsburg",
+        "flag": "🇸🇽",
+        "continent": "North America"
+    },
+    {
+        "name": "Tokelau",
+        "code": "TK",
+        "phone": "690",
+        "capital": "Fakaofo",
+        "flag": "🇹🇰",
+        "continent": "Oceania"
+    },
+    {
+        "name": "United States",
+        "code": "US",
+        "phone": "1",
+        "capital": "Washington D.C.",
+        "flag": "🇺🇸",
+        "continent": "North America"
+    },
+    {
+        "name": "Nicaragua",
+        "code": "NI",
+        "phone": "505",
+        "capital": "Managua",
+        "flag": "🇳🇮",
+        "continent": "North America"
+    },
+    {
+        "name": "Peru",
+        "code": "PE",
+        "phone": "51",
+        "capital": "Lima",
+        "flag": "🇵🇪",
+        "continent": "South America"
+    },
+    {
+        "name": "Russia",
+        "code": "RU",
+        "phone": "7",
+        "capital": "Moscow",
+        "flag": "🇷🇺",
+        "continent": "Europe"
+    },
+    {
+        "name": "Paraguay",
+        "code": "PY",
+        "phone": "595",
+        "capital": "Asunción",
+        "flag": "🇵🇾",
+        "continent": "South America"
+    },
+    {
+        "name": "Tuvalu",
+        "code": "TV",
+        "phone": "688",
+        "capital": "Funafuti",
+        "flag": "🇹🇻",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Thailand",
+        "code": "TH",
+        "phone": "66",
+        "capital": "Bangkok",
+        "flag": "🇹🇭",
+        "continent": "Asia"
+    },
+    {
+        "name": "El Salvador",
+        "code": "SV",
+        "phone": "503",
+        "capital": "San Salvador",
+        "flag": "🇸🇻",
+        "continent": "North America"
+    },
+    {
+        "name": "Singapore",
+        "code": "SG",
+        "phone": "65",
+        "capital": "Singapore",
+        "flag": "🇸🇬",
+        "continent": "Asia"
+    },
+    {
+        "name": "Malaysia",
+        "code": "MY",
+        "phone": "60",
+        "capital": "Kuala Lumpur",
+        "flag": "🇲🇾",
+        "continent": "Asia"
+    },
+    {
+        "name": "Serbia",
+        "code": "RS",
+        "phone": "381",
+        "capital": "Belgrade",
+        "flag": "🇷🇸",
+        "continent": "Europe"
+    },
+    {
+        "name": "Rwanda",
+        "code": "RW",
+        "phone": "250",
+        "capital": "Kigali",
+        "flag": "🇷🇼",
+        "continent": "Africa"
+    },
+    {
+        "name": "Niue",
+        "code": "NU",
+        "phone": "683",
+        "capital": "Alofi",
+        "flag": "🇳🇺",
+        "continent": "Oceania"
+    },
+    {
+        "name": "San Marino",
+        "code": "SM",
+        "phone": "378",
+        "capital": "City of San Marino",
+        "flag": "🇸🇲",
+        "continent": "Europe"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "phone": "1649",
+        "capital": "Cockburn Town",
+        "flag": "🇹🇨",
+        "continent": "North America"
+    },
+    {
+        "name": "East Timor",
+        "code": "TL",
+        "phone": "670",
+        "capital": "Dili",
+        "flag": "🇹🇱",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Philippines",
+        "code": "PH",
+        "phone": "63",
+        "capital": "Manila",
+        "flag": "🇵🇭",
+        "continent": "Asia"
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "code": "ST",
+        "phone": "239",
+        "capital": "São Tomé",
+        "flag": "🇸🇹",
+        "continent": "Africa"
+    },
+    {
+        "name": "Saint Helena",
+        "code": "SH",
+        "phone": "290",
+        "capital": "Jamestown",
+        "flag": "🇸🇭",
+        "continent": "Africa"
+    },
+    {
+        "name": "Pakistan",
+        "code": "PK",
+        "phone": "92",
+        "capital": "Islamabad",
+        "flag": "🇵🇰",
+        "continent": "Asia"
+    },
+    {
+        "name": "Turkmenistan",
+        "code": "TM",
+        "phone": "993",
+        "capital": "Ashgabat",
+        "flag": "🇹🇲",
+        "continent": "Asia"
+    },
+    {
+        "name": "Tonga",
+        "code": "TO",
+        "phone": "676",
+        "capital": "Nuku'alofa",
+        "flag": "🇹🇴",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Ukraine",
+        "code": "UA",
+        "phone": "380",
+        "capital": "Kyiv",
+        "flag": "🇺🇦",
+        "continent": "Europe"
+    },
+    {
+        "name": "Slovakia",
+        "code": "SK",
+        "phone": "421",
+        "capital": "Bratislava",
+        "flag": "🇸🇰",
+        "continent": "Europe"
+    },
+    {
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "phone": "675",
+        "capital": "Port Moresby",
+        "flag": "🇵🇬",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Tanzania",
+        "code": "TZ",
+        "phone": "255",
+        "capital": "Dodoma",
+        "flag": "🇹🇿",
+        "continent": "Africa"
+    },
+    {
+        "name": "Pitcairn Islands",
+        "code": "PN",
+        "phone": "64",
+        "capital": "Adamstown",
+        "flag": "🇵🇳",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Sierra Leone",
+        "code": "SL",
+        "phone": "232",
+        "capital": "Freetown",
+        "flag": "🇸🇱",
+        "continent": "Africa"
+    },
+    {
+        "name": "Venezuela",
+        "code": "VE",
+        "phone": "58",
+        "capital": "Caracas",
+        "flag": "🇻🇪",
+        "continent": "South America"
+    },
+    {
+        "name": "Syria",
+        "code": "SY",
+        "phone": "963",
+        "capital": "Damascus",
+        "flag": "🇸🇾",
+        "continent": "Asia"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "phone": "1868",
+        "capital": "Port of Spain",
+        "flag": "🇹🇹",
+        "continent": "North America"
+    },
+    {
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "phone": "263",
+        "capital": "Harare",
+        "flag": "🇿🇼",
+        "continent": "Africa"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "phone": "4779",
+        "capital": "Longyearbyen",
+        "flag": "🇸🇯",
+        "continent": "Europe"
+    },
+    {
+        "name": "Togo",
+        "code": "TG",
+        "phone": "228",
+        "capital": "Lomé",
+        "flag": "🇹🇬",
+        "continent": "Africa"
+    },
+    {
+        "name": "Vietnam",
+        "code": "VN",
+        "phone": "84",
+        "capital": "Hanoi",
+        "flag": "🇻🇳",
+        "continent": "Asia"
+    },
+    {
+        "name": "Senegal",
+        "code": "SN",
+        "phone": "221",
+        "capital": "Dakar",
+        "flag": "🇸🇳",
+        "continent": "Africa"
+    },
+    {
+        "name": "Réunion",
+        "code": "RE",
+        "phone": "262",
+        "capital": "Saint-Denis",
+        "flag": "🇷🇪",
+        "continent": "Africa"
+    },
+    {
+        "name": "Suriname",
+        "code": "SR",
+        "phone": "597",
+        "capital": "Paramaribo",
+        "flag": "🇸🇷",
+        "continent": "South America"
+    },
+    {
+        "name": "U.S. Minor Outlying Islands",
+        "code": "UM",
+        "phone": "1",
+        "capital": "",
+        "flag": "🇺🇲",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "phone": "998",
+        "capital": "Tashkent",
+        "flag": "🇺🇿",
+        "continent": "Asia"
+    },
+    {
+        "name": "Vatican City",
+        "code": "VA",
+        "phone": "39066,379",
+        "capital": "Vatican City",
+        "flag": "🇻🇦",
+        "continent": "Europe"
+    },
+    {
+        "name": "Vanuatu",
+        "code": "VU",
+        "phone": "678",
+        "capital": "Port Vila",
+        "flag": "🇻🇺",
+        "continent": "Oceania"
+    },
+    {
+        "name": "South Sudan",
+        "code": "SS",
+        "phone": "211",
+        "capital": "Juba",
+        "flag": "🇸🇸",
+        "continent": "Africa"
+    },
+    {
+        "name": "U.S. Virgin Islands",
+        "code": "VI",
+        "phone": "1340",
+        "capital": "Charlotte Amalie",
+        "flag": "🇻🇮",
+        "continent": "North America"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "phone": "1784",
+        "capital": "Kingstown",
+        "flag": "🇻🇨",
+        "continent": "North America"
+    },
+    {
+        "name": "Swaziland",
+        "code": "SZ",
+        "phone": "268",
+        "capital": "Lobamba",
+        "flag": "🇸🇿",
+        "continent": "Africa"
+    },
+    {
+        "name": "Tajikistan",
+        "code": "TJ",
+        "phone": "992",
+        "capital": "Dushanbe",
+        "flag": "🇹🇯",
+        "continent": "Asia"
+    },
+    {
+        "name": "Samoa",
+        "code": "WS",
+        "phone": "685",
+        "capital": "Apia",
+        "flag": "🇼🇸",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Turkey",
+        "code": "TR",
+        "phone": "90",
+        "capital": "Ankara",
+        "flag": "🇹🇷",
+        "continent": "Asia"
+    },
+    {
+        "name": "Chad",
+        "code": "TD",
+        "phone": "235",
+        "capital": "N'Djamena",
+        "flag": "🇹🇩",
+        "continent": "Africa"
+    },
+    {
+        "name": "Yemen",
+        "code": "YE",
+        "phone": "967",
+        "capital": "Sana'a",
+        "flag": "🇾🇪",
+        "continent": "Asia"
+    },
+    {
+        "name": "Taiwan",
+        "code": "TW",
+        "phone": "886",
+        "capital": "Taipei",
+        "flag": "🇹🇼",
+        "continent": "Asia"
+    },
+    {
+        "name": "Uganda",
+        "code": "UG",
+        "phone": "256",
+        "capital": "Kampala",
+        "flag": "🇺🇬",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mayotte",
+        "code": "YT",
+        "phone": "262",
+        "capital": "Mamoudzou",
+        "flag": "🇾🇹",
+        "continent": "Africa"
+    },
+    {
+        "name": "Tunisia",
+        "code": "TN",
+        "phone": "216",
+        "capital": "Tunis",
+        "flag": "🇹🇳",
+        "continent": "Africa"
+    },
+    {
+        "name": "Uruguay",
+        "code": "UY",
+        "phone": "598",
+        "capital": "Montevideo",
+        "flag": "🇺🇾",
+        "continent": "South America"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "code": "WF",
+        "phone": "681",
+        "capital": "Mata-Utu",
+        "flag": "🇼🇫",
+        "continent": "Oceania"
+    },
+    {
+        "name": "British Virgin Islands",
+        "code": "VG",
+        "phone": "1284",
+        "capital": "Road Town",
+        "flag": "🇻🇬",
+        "continent": "North America"
+    },
+    {
+        "name": "Kosovo",
+        "code": "XK",
+        "phone": "377,381,383,386",
+        "capital": "Pristina",
+        "flag": "🇽🇰",
+        "continent": "Europe"
+    },
+    {
+        "name": "Zambia",
+        "code": "ZM",
+        "phone": "260",
+        "capital": "Lusaka",
+        "flag": "🇿🇲",
+        "continent": "Africa"
+    }
+]
