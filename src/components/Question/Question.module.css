@@ -14,19 +14,19 @@
     flex-direction: column;
     gap: 5px;
     padding: 20px;
+}
 
-    h2 {
-        font-size: 1rem;
-        text-transform: uppercase;
-        color: #aaa;
-        font-weight: normal;
-        letter-spacing: 0.2ch;
-    }
-    
-    p {
-        font-weight: 500;
-        font-size: 2rem;
-    }
+.title {
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: #aaa;
+    font-weight: normal;
+    letter-spacing: 0.2ch;
+}
+
+.value {
+    font-weight: 500;
+    font-size: 2rem;
 }
 
 .arrow {
