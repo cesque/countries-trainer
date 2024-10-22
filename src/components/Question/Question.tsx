@@ -16,13 +16,13 @@ function Question() {
 
     return <div className={styles.question} onClick={proceed}>
         <div className={styles.item}>
-            <h2>{question.from.type}</h2>
-            <p>{question.from.value}</p>
+            <h2 className={styles.title}>{question.from.type}</h2>
+            <p className={styles.value}>{question.from.value}</p>
         </div>
         <div className={styles.arrow}>🡓🡓🡓</div>
         <div className={styles.item}>
-            <h2>{question.to.type}</h2>
-            <p>{isRevealed ? question.to.value : '???'}</p>
+            <h2 className={styles.title}>{question.to.type}</h2>
+            <p className={styles.value}>{isRevealed ? question.to.value : '???'}</p>
         </div>
     </div>
 }
