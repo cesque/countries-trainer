@@ -27,6 +27,10 @@
 .value {
     font-weight: 500;
     font-size: 2rem;
+
+    .itemFlag & {
+        font-size: 10rem;
+    }
 }
 
 .arrow {

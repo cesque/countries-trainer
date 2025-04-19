@@ -1,10 +1,11 @@
 import styles from './Question.module.css'
 
+import classNames from 'classnames'
+
 import { useQuiz } from '@/components/QuizProvider/QuizProvider'
-import { PropsWithChildren } from 'react'
 
 function Question() {
-    const { question, nextQuestion, isRevealed, reveal } = useQuiz();
+    const { question, nextQuestion, isRevealed, reveal } = useQuiz()
 
     function proceed() {
         if (isRevealed) {
@@ -15,12 +16,12 @@ function Question() {
     }
 
     return <div className={styles.question} onClick={proceed}>
-        <div className={styles.item}>
+        <div className={classNames(styles.item, {[styles.itemFlag]: question.from.type == 'flag' })}>
             <h2 className={styles.title}>{question.from.type}</h2>
             <p className={styles.value}>{question.from.value}</p>
         </div>
         <div className={styles.arrow}>🡓🡓🡓</div>
-        <div className={styles.item}>
+        <div className={classNames(styles.item, {[styles.itemFlag]: question.to.type == 'flag' })}>
             <h2 className={styles.title}>{question.to.type}</h2>
             <p className={styles.value}>{isRevealed ? question.to.value : '???'}</p>
         </div>
